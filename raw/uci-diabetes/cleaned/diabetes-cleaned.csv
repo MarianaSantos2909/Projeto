@@ -1,0 +1,769 @@
+pregnancies,glucose,blood pressure,skin thickness,insulin,body mass index,diabetes pedigree function,age,outcome,clinic region,care path,patient segment,source_file
+6,148,72,35,126,33,0,50,Positive,North,High-Risk,Adult,diabetes-dirty.csv
+1,85,66,29,126,26,0,31,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+8,183,64,29,126,23,0,32,Positive,North,Urgent Monitoring,Mid-Age,diabetes-dirty.csv
+1,89,66,23,94,28,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,137,40,35,168,43,2,33,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+5,119,74,29,126,32,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,78,72,32,88,31,0,26,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+10,115,72,29,126,35,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,197,70,45,543,30,0,53,Positive,North,Routine Follow-up,Senior,diabetes-dirty.csv
+8,125,96,29,126,32,0,54,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+4,999,72,29,126,37,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+10,168,74,29,126,38,0,34,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+10,139,80,29,126,27,1,57,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,189,60,23,846,30,0,59,Positive,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+5,166,72,19,175,25,0,51,Positive,North,Urgent Monitoring,Senior,diabetes-dirty.csv
+7,100,72,29,126,30,0,32,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,118,84,47,230,45,0,30,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+7,119,74,29,126,29,0,30,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,103,30,38,83,43,0,396,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,115,70,30,96,34,0,32,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,126,88,41,126,39,0,27,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+8,99,84,29,126,35,0,50,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+7,196,90,29,126,39,0,41,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+9,119,80,35,126,29,0,29,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+11,143,94,33,146,36,0,51,Positive,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+10,125,72,26,115,5,0,41,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+7,147,72,29,126,39,0,43,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+1,119,72,15,140,23,0,22,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+13,145,72,19,110,22,0,57,Negative,North,Routine Follow-up,Senior,diabetes-dirty.csv
+5,117,92,29,126,34,0,38,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+5,109,75,26,126,36,0,720,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,158,76,36,245,32,0,28,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,88,58,11,54,24,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,92,92,29,126,19,0,28,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+10,122,78,31,126,27,0,45,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,103,60,33,192,24,0,30,Negative,South,High-Risk,Mid-Age,diabetes-dirty.csv
+11,138,76,29,126,33,0,35,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+9,102,76,37,126,32,0,30,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,90,68,42,126,38,0,27,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+4,111,72,47,207,37,1,56,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+3,180,64,25,70,34,0,26,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+7,133,84,29,126,40,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+7,106,72,18,126,22,0,48,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+9,171,72,24,240,45,0,54,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+7,159,64,29,126,27,0,150,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,180,66,39,126,42,1,30,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,119,56,29,126,32,0,30,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+2,71,70,27,126,28,0,22,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+7,103,66,32,126,39,0,31,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+7,105,72,29,126,32,0,24,Negative,South,High-Risk,Senior,diabetes-dirty.csv
+1,103,80,11,82,19,0,22,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+1,119,72,15,36,24,0,26,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+5,88,72,21,23,24,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+8,528,90,34,1500,84,0,58,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+7,150,66,42,342,34,0,42,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,73,50,10,126,32,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+7,187,68,39,304,37,0,492,Positive,North,High-Risk,Senior,diabetes-dirty.csv
+0,100,72,60,110,46,0,30,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+0,146,82,29,126,40,1,44,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,105,64,41,142,41,0,22,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,84,72,29,126,32,0,21,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+8,399,72,29,126,82,0,39,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+5,44,62,29,126,25,0,36,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+2,141,58,34,128,25,0,24,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+7,114,66,29,126,32,0,42,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,99,72,27,126,29,0,32,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,109,88,30,126,32,0,38,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,109,92,29,126,42,0,54,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,119,66,13,126,19,0,25,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+4,146,85,27,100,28,0,27,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,100,66,20,90,32,0,28,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,139,64,35,140,28,0,26,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+13,126,72,29,126,43,0,42,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,129,86,20,270,35,0,23,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,119,75,30,126,32,0,22,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+1,119,48,20,126,24,0,22,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+7,62,78,29,126,32,0,41,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,95,72,33,126,37,0,27,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+0,131,72,29,126,43,0,26,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,112,66,22,126,25,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,113,72,13,126,32,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,74,72,29,126,32,0,22,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+7,83,78,26,71,29,0,36,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,101,65,28,126,32,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+5,119,108,29,126,48,0,37,Positive,North,High-Risk,Adult,diabetes-dirty.csv
+2,110,74,29,125,32,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+13,106,72,54,126,36,0,45,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+2,119,68,25,126,32,0,26,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+15,136,70,32,110,37,0,43,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,107,68,19,126,26,0,30,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,80,55,29,126,19,0,21,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+4,123,80,15,176,32,0,34,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+7,81,78,40,48,46,0,42,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,134,72,29,126,23,0,60,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+2,142,82,18,64,24,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+6,144,72,27,228,33,0,40,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,92,62,28,126,31,0,24,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,71,48,18,76,20,0,22,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+6,279,50,30,320,71,0,23,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+1,122,90,51,126,49,0,31,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,163,72,29,126,39,1,33,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,151,60,29,126,26,0,22,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+0,125,96,29,126,22,0,21,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,81,72,18,40,26,0,24,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,85,65,29,126,39,0,27,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,126,56,29,152,28,0,21,Negative,South,High-Risk,Senior,diabetes-dirty.csv
+1,96,122,29,126,22,0,27,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,144,58,28,140,29,0,37,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,83,58,31,18,34,0,25,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,95,85,25,36,37,0,24,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,171,72,33,135,33,0,24,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+8,155,62,26,495,34,0,46,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,89,76,34,37,31,0,23,Negative,North,High-Risk,Mid-Age,diabetes-dirty.csv
+4,76,62,29,126,34,0,25,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+7,160,54,32,175,30,0,30,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,146,92,29,126,31,0,61,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+5,124,74,29,126,34,0,38,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,78,48,29,126,33,0,25,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,97,60,23,126,28,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,99,76,15,51,23,0,21,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+0,162,76,56,100,53,0,25,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,111,64,39,126,34,0,24,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+2,107,74,30,100,33,0,30,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+5,132,72,29,126,32,0,69,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,119,72,29,126,33,0,276,Positive,North,Routine Follow-up,Senior,diabetes-dirty.csv
+1,88,30,42,99,55,0,26,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,120,70,30,135,42,0,360,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+1,118,58,36,94,33,0,23,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,119,88,24,126,32,0,40,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,105,84,29,126,27,0,62,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+4,173,70,14,168,29,0,33,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+9,122,56,29,126,33,1,396,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+3,170,64,37,225,32,0,30,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+8,84,74,31,126,38,0,39,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+2,96,72,13,49,21,0,26,Negative,North,Urgent Monitoring,Mid-Age,diabetes-dirty.csv
+2,119,60,20,140,33,0,31,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,100,70,26,50,30,0,21,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,93,72,25,92,28,0,22,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+0,129,80,29,126,31,0,29,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,105,72,29,325,36,0,28,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,384,78,29,126,52,0,55,Negative,North,High-Risk,Senior,diabetes-dirty.csv
+5,106,82,30,126,39,0,38,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,108,52,26,63,32,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+10,108,66,29,126,32,0,42,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,154,72,31,284,32,0,23,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,102,75,23,126,32,0,21,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+9,57,80,37,126,32,0,41,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+2,106,64,35,119,30,1,34,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+5,147,72,29,126,33,0,65,Negative,North,Routine Follow-up,Senior,diabetes-dirty.csv
+2,119,70,17,126,27,0,22,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,136,74,50,204,37,0,24,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,114,65,29,126,21,0,37,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+9,156,86,28,155,34,1,42,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,153,82,42,485,40,0,23,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+8,188,78,29,126,47,0,43,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+7,152,88,44,126,50,0,36,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,99,52,15,94,24,0,21,Positive,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+1,109,56,21,135,25,0,23,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,88,74,19,126,29,0,22,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+17,163,72,41,114,40,0,47,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,151,90,38,126,29,0,36,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+7,102,74,40,105,37,0,45,Negative,South,High-Risk,Senior,diabetes-dirty.csv
+0,114,80,34,285,44,0,27,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,119,64,23,126,29,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,131,88,29,126,31,0,32,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,104,74,18,156,29,0,41,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,148,66,25,126,32,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,120,68,29,126,29,0,34,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+4,110,66,29,126,31,0,29,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+3,119,90,12,126,32,0,29,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+6,102,82,29,126,30,0,36,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+6,134,70,23,130,35,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,87,72,23,126,28,0,25,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,79,60,42,48,43,0,276,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+2,75,64,24,55,29,0,33,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+8,119,72,42,130,32,0,36,Positive,South,High-Risk,Adult,diabetes-dirty.csv
+6,85,78,29,126,31,0,42,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,129,110,46,130,67,0,26,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+5,143,78,29,126,45,0,47,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+5,130,82,29,126,39,0,37,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+6,87,80,29,126,23,0,32,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,119,64,18,92,34,0,23,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,119,74,20,23,27,0,21,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+5,73,60,29,126,26,0,27,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,141,74,29,126,32,0,40,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+7,194,68,28,126,35,0,41,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+8,181,68,36,495,30,0,60,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,128,98,41,58,32,1,33,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+8,109,76,39,114,27,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,139,80,35,160,32,0,25,Positive,South,High-Risk,Mid-Age,diabetes-dirty.csv
+3,111,62,29,126,22,0,21,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+9,123,70,44,94,33,0,40,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+7,159,66,29,126,32,0,36,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+11,135,72,29,126,52,0,40,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+8,85,55,20,126,24,0,42,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+5,158,84,41,210,32,0,29,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,105,58,29,126,24,0,30,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+3,107,62,13,48,22,0,23,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,109,64,44,99,34,0,26,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,148,60,27,318,30,0,29,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,113,80,16,126,31,0,21,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+1,138,82,29,126,40,0,30,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+0,324,68,20,126,68,0,32,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,99,72,16,44,20,0,27,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+6,119,72,32,190,37,0,55,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,111,72,28,126,23,0,27,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+8,196,76,29,280,32,0,57,Positive,North,Urgent Monitoring,Senior,diabetes-dirty.csv
+5,162,104,29,126,37,0,52,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,96,64,27,87,33,0,21,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+7,184,84,33,126,35,0,41,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+2,119,60,22,126,32,0,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,147,85,54,126,42,0,24,Positive,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+7,179,95,31,126,34,0,60,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,140,65,26,130,42,0,24,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+9,112,82,32,175,34,0,36,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+12,151,70,40,271,41,0,38,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+5,109,62,41,129,35,0,25,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,125,68,30,120,30,0,32,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+5,85,74,22,126,29,1,384,Positive,North,Urgent Monitoring,Senior,diabetes-dirty.csv
+5,112,72,29,126,37,0,41,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,177,60,29,478,34,1,21,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,158,90,29,126,31,0,66,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+7,119,72,29,126,25,0,37,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+7,142,60,33,190,28,0,61,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,100,66,15,56,23,0,26,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+1,87,78,27,32,34,0,22,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+0,119,76,29,126,35,0,26,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,162,52,38,126,37,0,24,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,197,70,39,744,36,2,31,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,117,72,31,53,32,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,142,86,29,126,44,0,22,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+6,134,80,37,126,32,0,46,Positive,South,High-Risk,Adult,diabetes-dirty.csv
+1,79,72,25,37,25,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,122,68,29,126,35,0,29,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+3,74,68,28,45,29,0,30,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,513,72,29,126,109,0,26,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+7,543,84,21,126,89,0,51,Positive,North,Routine Follow-up,Senior,diabetes-dirty.csv
+0,179,90,27,126,44,0,23,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+9,119,84,21,126,30,0,32,Positive,North,High-Risk,Adult,diabetes-dirty.csv
+0,104,76,29,126,18,0,27,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,91,64,24,126,29,0,21,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,91,70,32,88,33,0,22,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+3,417,54,29,126,64,0,22,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+6,119,50,22,176,27,1,33,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,146,76,35,194,38,0,29,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+9,184,85,15,126,30,1,49,Positive,South,High-Risk,Adult,diabetes-dirty.csv
+10,122,68,29,126,31,0,41,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,165,90,33,680,52,0,23,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+9,124,70,33,402,35,0,34,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,111,86,19,126,30,0,23,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+9,106,72,29,126,31,0,42,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,119,84,29,126,32,0,27,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,90,80,14,55,24,0,30,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+0,86,68,32,126,32,0,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+12,92,62,7,258,27,0,44,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+1,113,64,35,126,33,0,30,Positive,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+3,111,56,39,126,30,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,114,68,22,126,28,0,25,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,119,50,16,126,25,0,24,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+11,155,76,28,150,33,1,51,Positive,South,High-Risk,Senior,diabetes-dirty.csv
+3,191,68,15,130,30,0,34,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,141,72,29,126,30,0,27,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,95,70,32,126,32,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,142,80,15,126,32,0,63,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+4,123,62,29,126,32,0,35,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,96,74,18,67,33,0,43,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+0,138,72,29,126,36,0,30,Positive,North,Urgent Monitoring,Mid-Age,diabetes-dirty.csv
+2,128,64,42,126,40,1,24,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,102,52,29,126,25,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,119,72,29,126,27,0,28,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+10,119,72,37,126,32,1,38,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,108,62,32,56,25,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,119,78,29,126,23,0,480,Negative,North,Routine Follow-up,Senior,diabetes-dirty.csv
+1,71,78,50,45,33,0,21,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+13,106,70,29,126,34,0,624,Negative,North,Routine Follow-up,Senior,diabetes-dirty.csv
+2,100,70,52,57,40,0,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+7,106,72,24,126,26,0,30,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,104,64,23,116,27,0,23,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+5,114,74,29,126,24,0,30,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+2,108,62,10,278,25,0,22,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,119,70,29,126,37,0,30,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+10,129,76,28,122,35,0,39,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+7,133,88,15,155,32,0,37,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+7,161,86,29,126,30,0,564,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+2,108,80,29,126,27,0,624,Positive,North,Routine Follow-up,Senior,diabetes-dirty.csv
+7,136,74,26,135,26,0,51,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+5,119,84,44,545,38,0,34,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,119,86,39,220,45,0,29,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+4,96,56,17,49,20,0,26,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,108,72,43,126,32,0,33,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+0,78,88,29,40,36,0,21,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+0,119,72,30,74,36,0,25,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,119,78,37,126,32,1,372,Positive,North,Routine Follow-up,Senior,diabetes-dirty.csv
+1,128,48,45,194,40,0,24,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,161,50,29,126,21,0,65,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+6,151,62,31,120,35,0,28,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,146,70,38,360,28,0,29,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,126,84,29,215,30,0,24,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+14,100,78,25,184,36,0,46,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+8,112,72,29,126,23,0,58,Positive,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+0,501,72,29,126,32,0,30,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,144,58,33,135,31,0,25,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+5,77,82,41,42,35,0,420,Negative,North,Urgent Monitoring,Senior,diabetes-dirty.csv
+5,115,98,29,126,52,0,28,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,150,76,29,126,32,0,37,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,120,76,37,105,39,0,29,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+10,161,68,23,132,25,0,564,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,137,68,14,148,24,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,128,68,19,180,30,1,25,Positive,North,High-Risk,Adult,diabetes-dirty.csv
+2,124,68,28,205,32,0,30,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+6,80,66,30,126,26,0,41,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+0,106,70,37,148,39,0,22,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,155,74,17,96,26,0,27,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,113,50,10,85,29,0,25,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+7,109,80,31,126,35,1,43,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+2,112,68,22,94,34,0,26,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+3,99,80,11,64,19,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,182,74,29,126,30,0,348,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+3,115,66,39,140,38,0,28,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,194,78,29,126,23,0,59,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+4,129,60,12,231,27,0,31,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,112,74,30,126,31,0,25,Positive,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+0,124,70,20,126,27,0,36,Positive,North,High-Risk,Adult,diabetes-dirty.csv
+13,456,90,33,145,67,0,43,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,112,75,32,126,35,0,21,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,157,72,21,168,25,0,24,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,122,64,32,156,35,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+10,179,70,29,126,35,0,37,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,102,86,36,120,45,0,23,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,105,70,32,68,30,0,37,Negative,South,High-Risk,Senior,diabetes-dirty.csv
+8,118,72,19,126,23,1,46,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,87,58,16,52,32,0,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,180,72,29,126,43,0,41,Positive,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+12,119,80,29,126,32,0,44,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,95,60,18,58,23,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,165,76,43,255,47,0,26,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,117,72,29,126,33,0,44,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+5,115,76,29,126,31,0,44,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+9,152,78,34,126,34,0,33,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+7,178,84,29,126,39,0,41,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,130,70,13,105,25,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,95,74,21,73,25,0,36,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,119,68,35,126,32,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,122,86,29,126,34,0,33,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+8,95,72,29,126,36,0,57,Positive,North,Routine Follow-up,Senior,diabetes-dirty.csv
+8,126,88,36,108,38,0,49,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,139,46,19,83,28,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,116,72,29,126,23,0,23,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,99,62,19,74,21,0,26,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,119,80,32,126,41,0,37,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,92,80,29,126,42,0,29,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+4,137,84,29,126,31,0,30,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,61,82,28,126,34,0,552,Negative,North,Routine Follow-up,Senior,diabetes-dirty.csv
+1,270,62,12,215,68,0,24,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+3,90,78,29,126,42,0,21,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+9,165,88,29,126,30,0,49,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,125,50,40,167,33,0,28,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+13,129,72,30,126,32,0,44,Positive,South,High-Risk,Adult,diabetes-dirty.csv
+12,88,74,40,54,35,0,48,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,196,76,36,249,36,0,29,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+5,189,64,33,325,31,0,29,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,158,70,29,126,29,0,63,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+5,103,108,37,126,32,0,65,Negative,North,Urgent Monitoring,Senior,diabetes-dirty.csv
+4,146,78,29,126,32,0,30,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,147,74,25,293,34,0,30,Positive,North,High-Risk,Adult,diabetes-dirty.csv
+5,99,54,28,83,32,0,30,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+6,124,72,29,126,27,0,29,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,101,64,17,126,21,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,81,86,16,66,27,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,133,102,28,140,32,0,45,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+3,173,72,48,465,38,2,25,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,118,64,23,89,32,1,21,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+0,84,64,22,66,35,0,21,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,105,58,40,94,34,0,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,119,52,43,126,32,0,336,Negative,South,Urgent Monitoring,Senior,diabetes-dirty.csv
+12,140,82,43,325,39,0,58,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+0,98,82,15,84,25,0,22,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+1,87,60,37,75,37,0,22,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+4,156,72,29,126,48,0,32,Positive,North,High-Risk,Adult,diabetes-dirty.csv
+0,93,100,39,72,43,1,35,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,107,72,30,82,30,0,24,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,105,68,22,126,20,0,22,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,109,60,8,182,25,0,21,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,90,62,18,59,25,1,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,125,70,24,110,24,0,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,119,54,13,50,22,0,24,Negative,South,High-Risk,Senior,diabetes-dirty.csv
+5,116,74,29,126,32,0,35,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+8,105,72,36,126,43,0,45,Positive,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+5,144,72,26,285,32,0,58,Positive,North,Routine Follow-up,Senior,diabetes-dirty.csv
+3,100,72,23,81,32,0,28,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,100,66,29,196,32,0,42,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,166,76,29,126,45,0,27,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,131,72,14,415,32,0,21,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+4,116,72,12,87,22,0,30,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+4,119,78,29,126,32,0,31,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,127,58,24,275,27,1,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,96,56,34,115,24,0,39,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,131,66,40,126,34,0,22,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,82,70,29,126,21,0,25,Negative,North,Urgent Monitoring,Mid-Age,diabetes-dirty.csv
+3,193,72,31,126,34,0,25,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,95,64,29,126,32,0,31,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,137,61,29,126,24,0,55,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+5,136,84,41,88,35,0,35,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+9,72,78,25,126,32,0,38,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+5,168,64,29,126,32,0,41,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,123,48,32,165,42,0,26,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,115,72,29,126,28,0,46,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,101,62,29,126,21,0,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+8,197,74,29,126,25,1,39,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,172,68,49,579,42,0,28,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+6,102,90,39,126,35,0,28,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+1,112,72,30,176,34,0,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,143,84,23,310,32,1,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,143,74,22,61,26,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,119,60,35,167,34,0,30,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,119,84,33,126,32,0,264,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,97,68,21,126,27,1,22,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,144,82,32,126,38,0,37,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,83,68,29,126,18,0,27,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,129,64,29,115,26,0,28,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,119,88,41,170,45,0,26,Positive,North,High-Risk,Mid-Age,diabetes-dirty.csv
+2,119,68,18,76,32,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,119,64,46,78,40,0,21,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+2,119,64,22,126,30,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+8,151,78,32,210,42,0,36,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,184,78,39,277,37,0,31,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+0,94,72,29,126,32,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,181,64,30,180,34,0,38,Positive,South,High-Risk,Adult,diabetes-dirty.csv
+0,119,94,46,145,40,0,26,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,95,82,25,180,32,0,516,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+2,99,72,29,126,22,0,23,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,89,74,16,85,30,0,38,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+1,80,74,11,60,30,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,139,75,29,126,25,0,29,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,119,68,8,126,24,1,36,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+0,141,72,29,126,42,0,29,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+12,140,72,33,126,37,0,41,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,147,72,29,126,29,0,28,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,97,70,15,126,18,0,21,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,107,88,29,126,36,0,31,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,189,104,25,126,34,0,41,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,83,66,23,50,32,0,22,Negative,South,High-Risk,Senior,diabetes-dirty.csv
+4,117,64,27,120,33,0,24,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+8,108,70,29,126,30,0,33,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,117,62,12,126,29,0,30,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,180,78,63,14,59,2,30,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,100,72,12,70,25,0,28,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+0,95,80,45,92,36,0,26,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,119,64,37,64,33,0,22,Positive,South,High-Risk,Adult,diabetes-dirty.csv
+0,120,74,18,63,30,0,312,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,119,72,13,95,21,0,23,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,134,72,29,126,28,0,23,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,91,72,32,210,39,0,25,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,119,72,29,126,19,0,72,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+2,100,54,28,105,37,0,24,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+14,175,62,30,126,33,0,38,Positive,South,High-Risk,Adult,diabetes-dirty.csv
+1,119,54,29,126,32,0,62,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,86,68,28,71,32,0,24,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+10,148,84,48,237,37,1,51,Positive,North,Urgent Monitoring,Senior,diabetes-dirty.csv
+9,134,74,33,60,25,0,81,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+9,120,72,22,126,20,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,71,72,29,126,21,0,26,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+8,74,70,40,49,35,0,39,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+5,88,78,30,126,27,0,37,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+10,115,98,29,126,24,1,34,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+0,124,56,13,105,21,0,21,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+0,74,52,10,36,27,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,97,64,36,100,36,0,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+8,120,72,29,126,30,0,38,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,154,78,41,140,46,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,144,82,40,126,41,0,28,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+0,137,70,38,126,33,0,22,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,119,66,27,126,38,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+7,136,90,29,126,29,0,50,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+4,114,64,29,126,32,0,24,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,137,72,27,126,27,0,59,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+2,105,80,45,191,33,0,29,Positive,North,High-Risk,Adult,diabetes-dirty.csv
+7,114,76,17,110,23,0,31,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+8,126,74,38,75,25,0,39,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,132,86,31,126,28,0,63,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+3,158,70,30,328,35,0,35,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,123,88,37,126,32,0,29,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+4,85,58,22,49,27,0,28,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+0,84,82,31,125,38,0,23,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+0,119,72,29,126,44,0,31,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,135,68,42,250,42,0,24,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,139,62,41,480,32,0,252,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+0,173,78,32,265,46,1,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,99,72,17,126,25,0,28,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+8,194,80,29,126,26,0,67,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+2,83,65,28,66,36,0,24,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+2,89,90,30,126,33,0,42,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,99,72,38,126,32,0,33,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,125,70,18,122,28,1,45,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,80,72,29,126,32,0,22,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+6,166,74,29,126,26,0,66,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+5,110,68,29,126,26,0,30,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,119,72,15,126,32,0,25,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+7,195,70,33,145,25,0,30,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,154,74,32,193,29,0,39,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,117,90,19,71,25,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,84,72,32,126,32,0,28,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+6,119,68,41,126,39,0,41,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+7,94,64,25,79,33,0,41,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,96,78,39,126,37,0,40,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+10,75,82,29,126,33,0,38,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+0,180,90,26,90,36,0,30,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+1,130,60,23,170,28,0,21,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,84,50,23,76,30,0,21,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+8,120,78,29,126,32,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+12,119,72,31,126,29,0,30,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,139,62,17,210,22,0,252,Negative,South,High-Risk,Senior,diabetes-dirty.csv
+9,119,68,29,126,24,0,58,Negative,North,Routine Follow-up,Senior,diabetes-dirty.csv
+2,91,62,29,126,27,0,22,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+3,99,54,19,86,25,0,24,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,163,70,18,126,32,0,336,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+9,145,88,34,165,30,0,53,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+7,125,86,29,126,37,0,51,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+13,119,60,29,126,32,0,30,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+6,129,90,7,326,19,0,60,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+2,68,70,32,66,25,0,300,Positive,North,Routine Follow-up,Senior,diabetes-dirty.csv
+3,124,80,33,130,33,0,26,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+6,114,72,29,126,32,0,26,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+9,130,70,29,126,32,0,45,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,125,58,29,126,31,0,24,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,87,60,18,126,21,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,97,64,19,82,18,0,21,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,116,74,15,105,26,0,24,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,117,66,31,188,30,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,111,65,29,126,24,0,31,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,122,60,18,106,29,0,22,Negative,North,Urgent Monitoring,Mid-Age,diabetes-dirty.csv
+0,107,76,29,126,45,0,24,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,86,66,52,65,41,0,29,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,91,72,29,126,29,0,31,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,119,56,30,56,33,1,24,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,132,72,29,126,32,0,30,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,105,90,29,126,29,0,46,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,57,60,29,126,21,0,67,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+0,119,80,37,126,32,0,23,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,129,92,49,155,36,0,32,Positive,South,High-Risk,Adult,diabetes-dirty.csv
+8,100,72,40,215,39,0,43,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,128,72,25,190,32,0,27,Positive,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+10,90,85,32,126,34,0,56,Positive,North,Urgent Monitoring,Senior,diabetes-dirty.csv
+4,252,90,23,280,32,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,88,78,29,76,32,0,29,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+8,186,72,35,225,34,0,37,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+5,187,72,27,207,43,1,53,Positive,North,High-Risk,Adult,diabetes-dirty.csv
+4,131,68,21,166,33,0,28,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,164,82,43,67,32,0,50,Negative,North,Routine Follow-up,Senior,diabetes-dirty.csv
+4,567,72,31,126,71,0,444,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,116,70,28,126,27,0,21,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,84,68,30,106,31,0,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+6,114,88,29,126,27,0,66,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+1,88,62,24,126,29,0,23,Positive,South,High-Risk,Senior,diabetes-dirty.csv
+1,119,72,23,115,36,0,28,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+7,124,70,33,215,25,0,37,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,97,70,40,126,38,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+8,110,76,29,126,27,0,58,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+11,103,68,40,126,46,0,42,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+11,85,74,29,126,30,0,35,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+6,125,76,29,126,32,0,54,Positive,North,High-Risk,Senior,diabetes-dirty.csv
+0,198,66,32,274,41,0,28,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,87,68,34,77,37,0,24,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,99,60,19,54,26,0,32,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+0,91,80,29,126,32,0,27,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,95,54,14,88,26,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,99,72,30,18,38,0,21,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+6,119,62,32,126,32,0,46,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+4,154,72,29,126,31,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,121,66,30,126,34,0,33,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+3,78,70,29,126,32,0,39,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,130,96,29,126,22,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,111,58,31,44,29,0,22,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,98,60,17,126,34,0,22,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,143,86,30,330,30,0,23,Negative,North,High-Risk,Mid-Age,diabetes-dirty.csv
+1,119,44,47,63,35,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+6,108,44,20,130,24,0,35,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,118,80,29,126,42,0,21,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+10,133,68,29,126,32,0,36,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+2,119,72,99,126,32,0,62,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+0,151,90,46,126,42,0,21,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,109,60,27,126,32,0,27,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+12,363,78,17,126,66,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+8,100,76,29,126,38,0,42,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+8,124,76,24,600,28,0,52,Positive,North,Routine Follow-up,Senior,diabetes-dirty.csv
+1,93,56,11,126,32,0,22,Positive,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+8,143,66,29,126,34,0,41,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,103,72,29,126,24,0,29,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,176,86,27,156,33,1,52,Positive,North,High-Risk,Adult,diabetes-dirty.csv
+0,119,72,29,126,21,0,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+11,111,84,40,126,46,0,45,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+2,112,78,50,140,39,0,24,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,132,80,29,126,34,0,44,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,82,52,22,115,32,1,25,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+6,119,72,45,230,33,0,34,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,188,72,14,185,32,0,22,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,67,76,29,126,45,0,46,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+1,89,24,19,25,27,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,173,74,29,126,36,0,38,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,109,38,18,120,23,0,26,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,324,88,19,126,67,0,288,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,96,72,29,126,23,0,28,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,124,74,36,126,27,0,30,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+7,150,78,29,126,35,0,30,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,183,72,29,126,28,0,36,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,124,60,32,126,35,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,181,78,42,293,40,1,22,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,92,62,25,41,19,0,25,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+0,456,82,39,1360,103,0,27,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,111,62,13,182,24,0,23,Negative,South,High-Risk,Senior,diabetes-dirty.csv
+3,106,54,21,158,30,0,24,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,174,58,22,194,32,0,36,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+7,168,88,42,321,38,0,40,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,105,72,28,126,32,0,26,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+11,138,74,26,144,36,0,30,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+3,106,72,29,126,32,0,27,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+6,117,96,29,126,28,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,68,72,13,15,20,0,30,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+9,112,82,24,126,28,1,50,Positive,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+0,119,72,29,126,32,0,24,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,119,86,42,126,32,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,92,72,20,126,24,1,28,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+6,183,94,29,126,40,1,45,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,94,70,27,115,32,0,21,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+2,108,64,29,126,30,0,21,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,90,72,47,54,37,0,29,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+0,125,68,29,126,24,0,252,Negative,North,Urgent Monitoring,Senior,diabetes-dirty.csv
+0,132,78,29,126,32,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+5,128,80,29,126,34,0,45,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,94,65,22,126,24,0,21,Positive,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+7,114,64,29,126,27,0,34,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+0,102,78,40,126,34,0,24,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,119,60,29,126,26,0,23,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,128,72,17,183,27,0,22,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+10,119,62,29,126,25,0,31,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+13,104,72,29,126,31,0,30,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+5,104,74,29,126,28,0,48,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,94,76,18,66,31,0,23,Positive,South,High-Risk,Adult,diabetes-dirty.csv
+7,97,76,32,91,40,0,32,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+1,100,74,12,46,19,0,28,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+0,102,86,17,105,29,0,27,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+4,128,70,29,126,34,0,24,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+6,119,80,29,126,29,0,50,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,90,72,29,126,28,0,31,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,309,72,30,760,69,0,27,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+2,157,74,35,440,39,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,119,74,17,144,23,0,33,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,179,50,36,159,37,0,22,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+11,136,72,35,130,28,0,42,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,119,60,25,126,26,0,23,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,91,54,25,100,25,0,23,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+1,117,60,23,106,33,0,27,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+5,123,74,40,77,34,0,28,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,120,54,29,126,26,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,106,70,28,135,34,0,264,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,155,52,27,540,38,0,25,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,101,58,35,90,21,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,120,80,48,200,32,1,41,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+11,127,106,29,126,39,0,51,Negative,North,Routine Follow-up,Senior,diabetes-dirty.csv
+3,80,72,31,70,34,1,27,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+10,162,84,29,126,32,0,54,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,119,76,43,126,32,1,22,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+8,167,106,46,231,37,0,43,Positive,North,Urgent Monitoring,Mid-Age,diabetes-dirty.csv
+9,145,80,46,130,37,0,40,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+6,115,72,39,126,33,0,40,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,112,80,45,132,34,0,24,Negative,South,High-Risk,Senior,diabetes-dirty.csv
+4,145,82,18,126,32,0,70,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+10,111,70,27,126,27,0,40,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+6,98,58,33,190,34,0,43,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+9,154,78,30,100,30,0,45,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+6,165,68,26,168,33,0,49,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,99,58,10,126,25,0,21,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+10,68,106,23,49,35,0,47,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+3,123,72,35,240,57,0,264,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+8,91,82,29,126,35,0,68,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+6,195,72,29,126,30,0,31,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+9,156,86,29,126,24,0,53,Positive,North,Routine Follow-up,Senior,diabetes-dirty.csv
+0,93,60,29,126,35,0,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,121,52,29,126,36,0,25,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,101,58,17,265,24,0,276,Negative,South,High-Risk,Senior,diabetes-dirty.csv
+2,119,56,28,45,24,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,162,76,36,126,49,0,26,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+0,119,64,39,126,44,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,125,80,29,126,32,0,27,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+5,136,82,29,126,32,0,69,Negative,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+2,129,74,26,205,33,0,25,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,130,64,29,126,23,0,22,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+1,107,50,19,126,28,0,29,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,140,74,26,180,24,0,23,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,144,82,46,126,46,0,46,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+8,107,80,29,126,24,0,408,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+13,158,114,29,126,32,0,44,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,121,70,32,95,32,0,23,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+7,129,72,49,125,38,0,43,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+2,90,60,29,126,23,0,25,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+7,142,90,24,480,30,0,43,Positive,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+3,169,74,19,125,29,0,31,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,99,72,29,126,25,0,22,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+4,127,88,11,155,34,0,28,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+4,118,70,29,126,44,0,26,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,366,76,27,1000,89,0,26,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+6,375,78,31,126,69,0,49,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,119,88,29,126,32,0,52,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,129,72,29,126,38,0,41,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+4,110,76,20,126,28,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,80,80,36,126,32,0,28,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+10,115,72,29,126,32,0,30,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,127,46,21,126,34,0,22,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+9,164,78,29,126,32,0,540,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+2,93,64,32,160,38,0,23,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,158,64,13,387,31,0,24,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+5,126,78,27,22,29,0,40,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+10,129,62,36,126,41,0,38,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,402,72,20,1455,66,0,252,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+3,102,74,29,126,29,0,32,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+7,187,50,33,392,33,0,34,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,173,78,39,185,33,0,31,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+10,94,72,18,126,23,0,56,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+1,108,60,46,178,35,0,24,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,97,76,27,126,35,0,52,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+4,83,86,19,126,29,0,34,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,114,66,36,200,38,0,21,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,119,72,29,127,32,0,42,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+5,117,86,30,105,39,0,42,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,111,94,29,126,32,0,45,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+4,119,78,40,126,39,0,38,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,116,78,29,180,36,0,25,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,119,84,26,126,32,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,175,88,29,126,22,0,22,Positive,North,High-Risk,Mid-Age,diabetes-dirty.csv
+2,92,52,29,126,30,0,22,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+3,130,78,23,79,28,0,34,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+8,119,86,29,126,28,0,22,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,174,88,37,120,44,0,24,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,106,56,27,165,29,0,30,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,119,75,29,126,23,0,53,Negative,North,Urgent Monitoring,Senior,diabetes-dirty.csv
+4,95,60,32,126,35,0,28,Negative,South,High-Risk,Adult,diabetes-dirty.csv
+0,126,86,27,120,27,0,21,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+8,65,72,23,126,32,0,42,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+2,99,60,17,160,36,0,21,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,102,74,29,126,32,0,42,Negative,South,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+11,119,80,37,150,42,0,48,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+3,102,44,20,94,30,0,26,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+1,109,58,18,116,28,0,22,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+9,119,94,29,126,32,0,45,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+13,459,88,37,126,101,1,39,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+12,100,84,33,105,30,0,46,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,147,94,41,126,49,0,27,Positive,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+1,81,74,41,57,46,1,32,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,187,70,22,200,36,0,36,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+6,162,62,29,126,24,0,50,Negative,South,High-Risk,Senior,diabetes-dirty.csv
+4,136,70,29,126,31,1,22,Positive,North,Routine Follow-up,Mid-Age,diabetes-dirty.csv
+1,363,78,39,370,97,0,28,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+3,108,62,24,126,26,0,25,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+0,181,88,44,510,43,0,26,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+8,154,78,32,126,32,0,45,Positive,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,128,88,39,110,36,1,37,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
+7,137,90,41,126,32,0,39,Negative,North,High-Risk,Adult,diabetes-dirty.csv
+0,123,72,29,126,36,0,52,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,119,76,29,126,37,0,26,Negative,North,Urgent Monitoring,Adult,diabetes-dirty.csv
+6,190,92,29,126,32,0,66,Positive,South,Routine Follow-up,Senior,diabetes-dirty.csv
+2,88,58,26,16,28,0,22,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+9,170,74,31,126,32,0,43,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+9,119,62,29,126,32,0,33,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+10,101,76,48,180,32,0,63,Negative,South,Routine Follow-up,Adult,diabetes-dirty.csv
+2,122,70,27,126,36,0,27,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+5,119,72,23,112,26,0,360,Negative,South,Routine Follow-up,Senior,diabetes-dirty.csv
+1,126,72,29,126,30,0,30,Negative,North,Routine Follow-up,Adult,diabetes-dirty.csv
+1,119,70,31,126,30,0,23,Positive,South,Routine Follow-up,Adult,diabetes-dirty.csv
