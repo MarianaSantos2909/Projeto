@@ -23,3 +23,8 @@ This project cleans and ingests the dirty Diabetes dataset from the course Final
 - Detected outliers in numerical columns using the IQR method
 - Added a `source_file` column to track data origin
 - Exported cleaned dataset to `raw/uci-diabetes/cleaned/diabetes-cleaned.csv`
+- Created `.env` file with PostgreSQL credentials (not tracked by Git)
+- Launched PostgreSQL and Adminer services with Docker Compose
+- Created ingestion notebook `src/ingestion.ipynb` to load the cleaned dataset into PostgreSQL
+- Defined a database connection class and an executor class to handle SQL operations
+- Ingested the cleaned dataset into the `diabetes` table in PostgreSQL
