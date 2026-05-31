@@ -1,0 +1,89 @@
+-- Verified table with 
+
+SELECT * FROM diabetes
+
+-- Total number of rows insert
+
+SELECT COUNT(*) FROM diabetes
+
+Result:
+
+768
+
+-- Visualizing the table structure
+
+SELECT column_name, data_type FROM information_schema.columns WHERE table_name = 'diabetes';
+
+Answer:
+
+column_name	                data_type
+id	                        integer
+pregnancies	                integer
+glucose	                        integer
+blood_pressure	                integer
+skin_thickness	                integer
+insulin	                        integer
+body_mass_index	                integer
+diabetes_pedigree_function	integer
+age	                        integer
+outcome	                        text
+clinic_region	                text
+care_path	                text
+patient_segment	                text
+source_file	                text
+
+
+-- Counting by result
+
+
+SELECT outcome, COUNT(*) FROM diabetes GROUP BY outcome;
+
+Answer:
+
+outcome	       count
+Negative	483
+Positive	285
+
+
+-- Count by region
+
+SELECT clinic_region, COUNT(*) FROM diabetes GROUP BY clinic_region;
+
+Answer:
+
+
+clinic_region	count
+South	         407
+North	         361
+
+
+-- Count by patient segment
+
+SELECT patient_segment, COUNT(*) FROM diabetes GROUP BY patient_segment;
+
+Answer:
+
+patient_segment	   count
+Adult	            559
+Senior	            146
+Mid-Age	            63
+
+-- Average glucose by outcome
+
+SELECT outcome, AVG(glucose) FROM diabetes GROUP BY outcome;
+
+Answer:
+
+outcome	                avg
+Negative	123.3146997929606625
+Positive	142.9894736842105263
+
+-- Patients with high glucose levels (above 140)
+
+SELECT COUNT(*) FROM diabetes WHERE glucose > 140;
+
+Answer:
+
+count
+190
+
