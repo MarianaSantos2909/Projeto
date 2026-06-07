@@ -28,6 +28,7 @@ This project cleans and ingests the dirty Diabetes dataset from the course Final
 - Created ingestion notebook `src/ingestion.ipynb` to load the cleaned dataset into PostgreSQL
 - Defined a database connection class and an executor class to handle SQL operations
 - Ingested the cleaned dataset into the `diabetes` table in PostgreSQL
+- Performed EDA using `src/eda_diabetes.ipynb`: missing value imputation, outlier removal, and visualizations
 
 ## Ingestion Validation
 
@@ -39,6 +40,6 @@ Validation queries confirmed:
 
 ### Main Files
 
-- Notebooks: `src/diabetes.ipynb`; `src/sql-crud-ingestion-diabetes.ipynb`
+- Notebooks: `src/diabetes.ipynb`;  `src/eda_diabetes.ipynb`; `src/sql-crud-ingestion-diabetes.ipynb`
 - Docker Compose: `Projeto/docker-compose.yml`
 - Generated clean CSV: `Projeto/raw/uci-diabetes/cleaned/diabetes-cleaned.csv`
