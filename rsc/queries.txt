@@ -8,7 +8,7 @@ SELECT COUNT(*) FROM diabetes
 
 Result:
 
-768
+771
 
 -- Visualizing the table structure
 
@@ -16,21 +16,22 @@ SELECT column_name, data_type FROM information_schema.columns WHERE table_name =
 
 Answer:
 
-column_name	                data_type
-id	                        integer
-pregnancies	                integer
-glucose	                        integer
-blood_pressure	                integer
-skin_thickness	                integer
-insulin	                        integer
-body_mass_index	                integer
-diabetes_pedigree_function	integer
-age	                        integer
-outcome	                        text
-clinic_region	                text
-care_path	                text
-patient_segment	                text
-source_file	                text
+
+column_name	                   data_type
+id	                            integer
+pregnancies	                    integer
+glucose	                            integer
+blood_pressure	                    integer
+skin_thickness	                    integer
+insulin	                            integer
+body_mass_index	                double precision
+diabetes_pedigree_function	double precision
+age	                            integer
+outcome	                             text
+clinic_region	                     text
+care_path	                     text
+patient_segment	                     text
+source_file	                     text
 
 
 -- Counting by result
@@ -40,9 +41,11 @@ SELECT outcome, COUNT(*) FROM diabetes GROUP BY outcome;
 
 Answer:
 
-outcome	       count
-Negative	483
-Positive	285
+outcome	        count
+NULL	         43
+Negative	 442
+Positive	 286
+
 
 
 -- Count by region
@@ -53,8 +56,10 @@ Answer:
 
 
 clinic_region	count
-South	         407
+NULL	         47
+South	         363
 North	         361
+
 
 
 -- Count by patient segment
@@ -63,20 +68,27 @@ SELECT patient_segment, COUNT(*) FROM diabetes GROUP BY patient_segment;
 
 Answer:
 
+
 patient_segment	   count
-Adult	            559
+NULL	            68
+Adult	            494
 Senior	            146
 Mid-Age	            63
+
 
 -- Average glucose by outcome
 
 SELECT outcome, AVG(glucose) FROM diabetes GROUP BY outcome;
 
+
 Answer:
 
-outcome	                avg
-Negative	123.3146997929606625
-Positive	142.9894736842105263
+
+outcome	             avg
+NULL	          123.1000000000000000
+Negative	  123.7727272727272727
+Positive	  145.9486166007905138
+
 
 -- Patients with high glucose levels (above 140)
 
